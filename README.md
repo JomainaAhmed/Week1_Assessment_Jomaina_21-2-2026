@@ -56,3 +56,27 @@ Many Students -> One Department
 - `deleteDepartment()`
 
 ---
+
+# How to Run the Projects
+
+## Clone the Repository
+```bash
+git clone https://github.com/your-username/repository-name.git
+```
+
+## Navigate to the Project
+```
+cd repository-name
+```
+
+## Build the Project
+```
+mvn clean install
+```
+
+## Run the Application
+```
+mvn spring-boot:run
+```
+
+---
